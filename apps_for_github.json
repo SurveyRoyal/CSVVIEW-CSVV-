@@ -1,0 +1,226 @@
+{
+  "Browsers": [
+    {
+      "name": "Google Chrome",
+      "winget": {
+        "id": "Google.Chrome"
+      }
+    },
+    {
+      "name": "Mozilla Firefox",
+      "winget": {
+        "id": "Mozilla.Firefox"
+      }
+    },
+    {
+      "name": "Brave",
+      "winget": {
+        "id": "Brave.Brave"
+      }
+    },
+    {
+      "name": "Opera",
+      "winget": {
+        "id": "Opera.Opera"
+      }
+    }
+  ],
+  "Editors": [
+    {
+      "name": "Visual Studio Code",
+      "winget": {
+        "id": "Microsoft.VisualStudioCode"
+      }
+    },
+    {
+      "name": "Notepad++",
+      "winget": {
+        "id": "Notepad++.Notepad++"
+      }
+    },
+    {
+      "name": "JetBrains Toolbox",
+      "winget": {
+        "id": "JetBrains.Toolbox"
+      }
+    },
+    {
+      "name": "Sublime Text",
+      "winget": {
+        "id": "SublimeHQ.SublimeText.4"
+      }
+    }
+  ],
+  "DevTools": [
+    {
+      "name": "Git",
+      "winget": {
+        "id": "Git.Git"
+      }
+    },
+    {
+      "name": "Node.js LTS",
+      "winget": {
+        "id": "OpenJS.NodeJS.LTS"
+      }
+    },
+    {
+      "name": "Python 3",
+      "winget": {
+        "id": "Python.Python.3.12"
+      }
+    },
+    {
+      "name": "PowerShell 7",
+      "winget": {
+        "id": "Microsoft.PowerShell"
+      }
+    },
+    {
+      "name": "Docker Desktop",
+      "winget": {
+        "id": "Docker.DockerDesktop"
+      }
+    },
+    {
+      "name": "Postman",
+      "winget": {
+        "id": "Postman.Postman"
+      }
+    },
+    {
+      "name": "Visual Studio 2022 Community",
+      "winget": {
+        "id": "Microsoft.VisualStudio.2022.Community"
+      }
+    },
+    {
+      "name": "JDK 17 (Temurin)",
+      "winget": {
+        "id": "EclipseAdoptium.Temurin.17.JDK"
+      }
+    }
+  ],
+  "Runtimes": [
+    {
+      "name": ".NET Desktop Runtime 8",
+      "winget": {
+        "id": "Microsoft.DotNet.DesktopRuntime.8"
+      }
+    },
+    {
+      "name": "VC++ Redistributable 2015-2022 (x64)",
+      "winget": {
+        "id": "Microsoft.VCRedist.2015+.x64"
+      }
+    },
+    {
+      "name": "VC++ Redistributable 2015-2022 (x86)",
+      "winget": {
+        "id": "Microsoft.VCRedist.2015+.x86"
+      }
+    }
+  ],
+  "Media": [
+    {
+      "name": "VLC media player",
+      "winget": {
+        "id": "VideoLAN.VLC"
+      }
+    },
+    {
+      "name": "OBS Studio",
+      "winget": {
+        "id": "OBSProject.OBSStudio"
+      }
+    }
+  ],
+  "Chat": [
+    {
+      "name": "Discord",
+      "winget": {
+        "id": "Discord.Discord"
+      }
+    },
+    {
+      "name": "Slack",
+      "winget": {
+        "id": "SlackTechnologies.Slack"
+      }
+    },
+    {
+      "name": "Telegram Desktop",
+      "winget": {
+        "id": "Telegram.TelegramDesktop"
+      }
+    },
+    {
+      "name": "Zoom",
+      "winget": {
+        "id": "Zoom.Zoom"
+      }
+    }
+  ],
+  "Utilities": [
+    {
+      "name": "7-Zip",
+      "winget": {
+        "id": "7zip.7zip"
+      }
+    },
+    {
+      "name": "Rufus",
+      "winget": {
+        "id": "Rufus.Rufus"
+      }
+    },
+    {
+      "name": "Everything",
+      "winget": {
+        "id": "voidtools.Everything"
+      }
+    },
+    {
+      "name": "PowerToys",
+      "winget": {
+        "id": "Microsoft.PowerToys"
+      }
+    },
+    {
+      "name": "PuTTY",
+      "winget": {
+        "id": "PuTTY.PuTTY"
+      }
+    },
+    {
+      "name": "FileZilla Client",
+      "winget": {
+        "id": "FileZilla.FileZilla"
+      }
+    },
+    {
+      "name": "GIMP",
+      "winget": {
+        "id": "GIMP.GIMP"
+      }
+    },
+    {
+      "name": "Paint.NET",
+      "winget": {
+        "id": "dotPDN.PaintDotNet"
+      }
+    },
+    {
+      "name": "WinRAR",
+      "winget": {
+        "id": "RARLab.WinRAR"
+      }
+    },
+    {
+      "name": "WireGuard",
+      "winget": {
+        "id": "WireGuard.WireGuard"
+      }
+    }
+  ]
+}
